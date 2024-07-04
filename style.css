@@ -1,0 +1,15 @@
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: chartreuse;
+  }
+  
+  .liked {
+    color: red;
+  }
+  
+  #total-price {
+    font-weight: bold;
+  }
+  
